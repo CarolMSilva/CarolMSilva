@@ -17,7 +17,7 @@ ___
 
 💓 Amo desing, música, ler e programar! 
 
-🔭 Atualmente estudo desenvolvimento Web.
+🔭 Estudo desenvolvimento Web.
 
 🌱 Tenho como objetivo ser desenvolvedora Backend Java no momento. 😉
 
@@ -29,7 +29,7 @@ ___
   <br/>
 
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=red)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)&nbsp;
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red)](https://git-scm.com/doc)&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)&nbsp;
 
